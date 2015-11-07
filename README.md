@@ -1,4 +1,5 @@
-# Studio Game is the exercise project included in the Pragmatic Studio Course
+# Studio Game 
+is the exercise project included in the Pragmatic Studio Course
 The object of the game is to have players roll a die, find treasures and increase or decrease their scores to win 
 the game.
 
